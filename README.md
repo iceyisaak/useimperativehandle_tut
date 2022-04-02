@@ -1,4 +1,5 @@
-# useImperativeHandle() - Call a function in Child Component
+# useImperativeHandle()  
+#### Call a function in Child Component
 
 > Accompanying VDO by Dave Gray
 https://www.youtube.com/watch?v=ZtcgPhWv1e8
