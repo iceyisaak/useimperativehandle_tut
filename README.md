@@ -1,3 +1,19 @@
+# useImperativeHandle() - Call a function in Child Component
+
+> Accompanying VDO by Dave Gray
+https://www.youtube.com/watch?v=ZtcgPhWv1e8
+
+
+***Purpose:*** Used to call function in child component via the parent component without rerendering the parent component
+<br/>
+***Use Case:*** Accessing function in the Modal without rerendering the Parent Component
+<br/>
+***Beware:*** Always use `useImperativeHandle()` in the child component in connection with the `forwardRef()`
+
+<br/>
+<br/>
+-----
+<br/>
 # "useImperativeHandle React Hook Tutorial"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
